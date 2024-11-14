@@ -29,7 +29,40 @@ Ik heb mijn uitwerking laten lezen door een medestudent. Hieruit begreep ik dat 
 
 De opdracht leek in eerste instantie eenvoudig en vanzelfsprekend. Toch vergat ik eerst dat het nodig was om elke stap duidelijk uit te leggen. Bij handelingen die je vaak uitvoert, sta je niet altijd stil bij de details. Toen ik begon met het beschrijven en voordoen, bleek het ingewikkelder te zijn dan ik had verwacht.
 
-    
+<br>
 
+#### Opdracht Casus keuze
 
+**Opdracht**
 
+- Wat zijn de belangrijkste activiteiten die gebeuren?
+- Wat is een interessant vraagstuk (probleem) dat je wil aanpakken?
+- Welk mogelijke oplossing of toepassing kun je bedenken of heb je bedacht?
+- Hoe zou robotisering hierbij een rol kunnen spelen?
+- Wat heb jij nodig aan kennis en vaardigheden om dit te kunnen aanpakken?
+- Welke vragen heb jij voor de casus eigenaar?
+
+**Uitwerking**
+
+- Een zorgverlener zorgt ervoor dat mensen met dementie op tijd en gezond eten. Dit helpt de bewoners om een goed eetpatroon te behouden en voorkomt ondervoeding.
+
+- Het vraagstuk dat ik wil aanpakken is: hoe kunnen we ervoor zorgen dat mensen met dementie die thuis wonen gezond blijven eten, zonder dat ze daar voortdurend hulp voor nodig hebben?
+
+- Een mogelijke oplossing is een robot die naar de bewoner toe gaat wanneer het tijd is om te eten. De robot kan de bewoner herinneren aan de maaltijd en uitleggen wat en wanneer ze moeten eten. Het zou nog beter zijn als de robot het eten zelf kan serveren of zelfs klaarmaken, zodat de bewoner dit niet zelf hoeft te doen.
+
+- Robotisering kan hierbij helpen door de robot in staat te stellen de bewoner te vinden en hen op een vriendelijke manier te begeleiden. Ook kan de robot gegevens verzamelen over wat de bewoner eet, waardoor zorgverleners een beter overzicht hebben van de gezondheid van de bewoner.
+
+- Om dit te realiseren, heb ik kennis nodig over hoe robots zich door een woning kunnen bewegen, en hoe ze de bewoner kunnen vinden en benaderen. Daarnaast moet ik weten welke technologieën nodig zijn voor het bereiden en serveren van eten.
+
+- Vragen die ik heb voor de casus eigenaar:
+  1. Wat kunnen we verwachten van mensen met dementie? Kunnen zij zelf hun eten klaarmaken en weten ze waar alles in hun woning is?
+  2. Hoe kunnen we zeker weten dat de bewoner het eten daadwerkelijk heeft gegeten?
+  3. Waarom kiezen we voor een fysieke robot die direct met de gebruiker interageert? Is een herinnering via een speaker of telefoon misschien makkelijker voor mensen met dementie?
+
+**Feedback**
+
+...
+
+**Reflectie**
+
+Ik vond de opdracht redelijk moeilijk. Het was niet eenvoudig om op al deze vragen een goed antwoord te geven. Ik moest goed nadenken over hoe ik dit project zou aanpakken. Nu heb ik echter het gevoel dat ik meer grip heb op het probleem en daardoor makkelijker aan de opdracht kan beginnen.
