@@ -66,3 +66,36 @@ De opdracht leek in eerste instantie eenvoudig en vanzelfsprekend. Toch vergat i
 **Reflectie**
 
 Ik vond de opdracht redelijk moeilijk. Het was niet eenvoudig om op al deze vragen een goed antwoord te geven. Ik moest goed nadenken over hoe ik dit project zou aanpakken. Nu heb ik echter het gevoel dat ik meer grip heb op het probleem en daardoor makkelijker aan de opdracht kan beginnen.
+
+<br>
+
+#### UX: doelgroep opdracht
+
+**Opdracht deel 1**
+
+Bestudeer de casus die je gekozen:
+- Wat heb je er uit kunnen halen?
+- Wat weet je over je doelgroep?
+- Wat is de belangrijkste uitdaging voor de doelgroep?
+Maak daarna de keuze voor één casus om mee verder te werken.
+
+**Uitwerking**
+
+- Na het lezen van de casus begrijp ik het probleem van de opdrachtgever beter. De doelgroep van de opdracht bestaat uit mensen met dementie, die moeten kunnen interacteren met het systeem.
+- Ik besef dat deze mensen vaak moeite hebben met zelfstandigheid. Daarom moet het systeem zo eenvoudig en gebruiksvriendelijk mogelijk zijn.
+- De grootste uitdaging is ervoor te zorgen dat de doelgroep begrijpt hoe ze op de functionaliteiten van het systeem moeten reageren.
+
+**Opdracht deel 2**
+
+Ga nu aan de slag om te kijken wat je kunt bedenken aan ideeën voor de doelgroep binnen deze casus.
+
+- 5 minuten ideeën spuien op een vel papier.
+- Pak een idee en schrijf in 2 minuten zo veel aanknopingspunten (in steekwoorden) op die je bij elk idee hebt. Doe dit in de vorm van een mindmap.
+- Herhaal dit voor ten minste één ander idee.
+- Welk idee heeft de meeste connecties?
+
+**Uitwerking**
+
+- 1. Een robot die naar de bewoner toe kan rijden, de persoon vriendelijk herinnert om te eten en hen desgewenst kan begeleiden naar de keuken.
+  2. Een systeem dat automatisch een bestelling kan plaatsen op het moment dat de bewoner moet eten. Hierdoor hoeft de bewoner zich niet bewust te zijn van zijn eet patroon.
+  3. Een systeem dat de bewoner instructies geeft over wat hij of zij op een bepaald moment moet doen, zoals het bereiden van een maaltijd en welke specifieke maaltijd gegeten moet worden .
