@@ -61,7 +61,7 @@ De opdracht leek in eerste instantie eenvoudig en vanzelfsprekend. Toch vergat i
 
 **Feedback**
 
-...
+Mijn vraagstuk was duidelijk en beknopt.
 
 **Reflectie**
 
@@ -96,6 +96,76 @@ Ga nu aan de slag om te kijken wat je kunt bedenken aan ideeën voor de doelgroe
 
 **Uitwerking**
 
-- 1. Een robot die naar de bewoner toe kan rijden, de persoon vriendelijk herinnert om te eten en hen desgewenst kan begeleiden naar de keuken.
-  2. Een systeem dat automatisch een bestelling kan plaatsen op het moment dat de bewoner moet eten. Hierdoor hoeft de bewoner zich niet bewust te zijn van zijn eet patroon.
-  3. Een systeem dat de bewoner instructies geeft over wat hij of zij op een bepaald moment moet doen, zoals het bereiden van een maaltijd en welke specifieke maaltijd gegeten moet worden .
+- 1. Een robot die zelfstandig naar de bewoner toe kan rijden, hen op een vriendelijke manier herinnert om te eten en, indien nodig, begeleiding biedt naar de keuken.
+  2. Een systeem dat automatisch eten bestellingen plaatst op de momenten dat de bewoner moet eten, zodat de bewoner niet zelf bewust hoeft te zijn van hun eetpatroon.
+  3. Een systeem dat de bewoner duidelijke instructies geeft over wat er op een bepaald moment gedaan moet worden, zoals het bereiden van een maaltijd en welke specifieke maaltijd gegeten dient te worden.
+- ![mindmap1](mindmap1.jpg)
+  ![mindmap2](mindmap2.jpg)
+- Ze hebben allebei evenveel connecties
+
+**Feedback**
+
+Mijn ideeën waren nog niet helemaal uitgewerkt, en de mindmaps konden wat uitgebreider.
+
+**Reflectie**
+
+Ik vond het lastig om de opdracht te maken, omdat ik geen goede ideeën had om het probleem op te lossen. De mindmaps hebben me niet echt geholpen om een bruikbaar idee te bedenken waarmee ik verder kon.
+
+<br>
+
+#### Opdracht Systeem denken
+
+**Opdracht**
+
+- Kies één van de cases (willekeurig)
+- Geef aan welke SDG’s van invloed kunnen zijn voor de casus. In positieve én negatieve zin.
+- Onderbouw je keuze aan de hand van de beginselen van systeem denken (Leg het effect op de SDG's duidelijk uit.).
+
+**Uitwerking**
+
+- Langer zelfstandig thuiswonen met dementie
+- De SDG die bij deze casus past, is SDG 3: Good Health and Well-being. De casus richt zich op het gezond houden van mensen met dementie, zodat ze langer zelfstandig kunnen blijven.
+- Als mensen met dementie langer zelfstandig thuis kunnen wonen, vermindert dit de druk op zorginstellingen en het tekort aan zorgverleners. Hierdoor worden de beschikbare zorgmiddelen efficiënter ingezet, wat bijdraagt aan een beter functionerende samenleving.
+
+**Feedback**
+
+Mijn klasgenoot was het eens dat deze SDG goed bij de casus past.
+
+**Reflectie**
+
+Door deze opdracht ben ik me bewuster geworden van de maatschappelijke impact van dit probleem.
+
+<br>
+
+#### Robot laten rijden
+
+**Opdracht**
+
+https://brightspace.avans.nl/d2l/le/lessons/196426/folders/1479484
+
+**Uitwerking**
+
+...
+
+**Reflectie**
+
+Ik heb de robot zonder problemen kunnen laten rijden en kan nu beginnen aan de opdrachten voor technologie.
+
+<br>
+
+#### Basisvaardigheden: Feedback geven tijdens sprint review
+
+**Opdracht**
+
+- Liked: Welke aspecten van je feedback geven gingen goed? Wat waren effectieve elementen van je feedback die anderen hielpen om te verbeteren?
+- Learned: Wat heb je geleerd over het geven van constructieve feedback? Welke technieken werkte goed, en wat zou je in de toekomst anders willen doen?
+- Lacked: Waren er momenten waarop je feedback niet goed overkwam of niet effectief was? Wat ontbrak er in je benadering?
+- Longed for: Wat zou je de volgende keer willen verbeteren in hoe je feedback geeft? Zijn er specifieke methoden die je gaat gebruiken?
+
+**Uitwerking**
+
+...
+
+**Reflectie**
+
+...
