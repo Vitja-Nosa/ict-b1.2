@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "c:\\git\\ict-b1.2\\digital_twin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\digital_twin.bundle.scp.css",
+      "PackagePath": "staticwebassets\\digital_twin.bundle.scp.css"
+    },
+    {
+      "Id": "c:\\git\\ict-b1.2\\digital_twin\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "c:\\git\\ict-b1.2\\digital_twin\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "c:\\git\\ict-b1.2\\digital_twin\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "c:\\git\\ict-b1.2\\digital_twin\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.digital_twin.props",
+      "PackagePath": "build\\digital_twin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.digital_twin.props",
+      "PackagePath": "buildMultiTargeting\\digital_twin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.digital_twin.props",
+      "PackagePath": "buildTransitive\\digital_twin.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.digital_twin.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

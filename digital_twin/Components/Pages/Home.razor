@@ -1,0 +1,26 @@
+﻿@page "/"
+@inject WheeledRobot WheeledRobot;
+@attribute [StreamRendering]
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+<ul>
+    <li>@wheeledRobot?.MeasureTemperature()</li>
+</ul>
+
+
+
+@code {
+    private WheeledRobot? wheeledRobot;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await Task.Delay(500);
+
+        wheeledRobot = new WheeledRobot();
+
+    }
+}
+
